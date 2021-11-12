@@ -1,6 +1,6 @@
 {
   "name": "wingubash",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "creator.js",
   "bin": {
     "basename": "basename.exe",
@@ -71,6 +71,7 @@
     "ptx": "ptx.exe",
     "pwd": "pwd.exe",
     "readlink": "readlink.exe",
+    "README": "README.md",
     "rm": "rm.exe",
     "rmdir": "rmdir.exe",
     "seq": "seq.exe",
@@ -102,6 +103,7 @@
     "users": "users.exe",
     "vdir": "vdir.exe",
     "wc": "wc.exe",
+    "wget": "wget.exe",
     "who": "who.exe",
     "whoami": "whoami.exe",
     "yes": "yes.exe"
